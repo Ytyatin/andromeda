@@ -1,7 +1,7 @@
 {
     "name": "adihair",
     "description": "For Purchasing Adivasi products",
-    "image": "https://raw.githubusercontent.com/Ytyatin/andromeda/main/ahob.jpg",
+    "image": "https://raw.githubusercontent.com/Ytyatin/andromeda/main/ahob.png",
     "attributes": [
         {
             "trait_type": "Origin",
