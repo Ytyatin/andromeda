@@ -1,18 +1,14 @@
 {
-    "name": "Tabaqui",
+    "name": "Your NFT Name",
     "description": "NFT Description",
-    "image": "https://github.com/Ytyatin/andromeda/blob/main/wallpaperflare.com_wallpaper%20(1).jpg",
+    "image": "image url",
     "attributes": [
         {
-            "Collection": "Amulya",
+            "trait_type": "Trait Name",
             "value": "Trait Value"
         },
         {
-            "Name": "Trait Name",
-            "value": "Trait Value"
-        },
-        {
-            "Background": "Green",
+            "trait_type": "Trait Name",
             "value": "Trait Value"
         }
     ]
