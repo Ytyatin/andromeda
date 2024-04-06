@@ -1,7 +1,7 @@
 {
     "name": "Your NFT Name",
     "description": "NFT Description",
-    "image": "image url",
+    "image": "https://github.com/Ytyatin/andromeda/blob/main/ahob.jpg",
     "attributes": [
         {
             "trait_type": "Trait Name",
